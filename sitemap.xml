@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kevinello.ltd/2021/06/14/Service-Mesh%E5%9C%A8%E6%8E%A5%E5%85%A5%E5%B1%82%E6%B5%81%E9%87%8F%E7%AE%A1%E7%90%86%E7%9A%84%E5%BA%94%E7%94%A8/</loc>
+    
+    <lastmod>2021-06-14</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kevinello.ltd/categories/index.html</loc>
     
     <lastmod>2021-06-14</lastmod>
@@ -537,6 +544,41 @@
   
   <url>
     <loc>http://kevinello.ltd/tags/Hash/</loc>
+    <lastmod>2021-06-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinello.ltd/tags/%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2021-06-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinello.ltd/tags/Service-Mesh/</loc>
+    <lastmod>2021-06-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinello.ltd/tags/%E6%B5%81%E9%87%8F%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2021-06-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinello.ltd/tags/%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83/</loc>
+    <lastmod>2021-06-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinello.ltd/tags/Istio/</loc>
     <lastmod>2021-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
