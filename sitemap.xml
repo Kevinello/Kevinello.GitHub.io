@@ -37,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://kevinello.ltd/2021/10/18/Whosbug%E9%A1%B9%E7%9B%AE%E6%97%A5%E5%BF%972/</loc>
+    <loc>http://kevinello.ltd/2020/11/27/Whosbug%E9%A1%B9%E7%9B%AE%E6%97%A5%E5%BF%971/</loc>
     
     <lastmod>2022-04-09</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kevinello.ltd/2020/11/27/Whosbug%E9%A1%B9%E7%9B%AE%E6%97%A5%E5%BF%971/</loc>
+    <loc>http://kevinello.ltd/2021/10/18/Whosbug%E9%A1%B9%E7%9B%AE%E6%97%A5%E5%BF%972/</loc>
     
     <lastmod>2022-04-09</lastmod>
     
@@ -571,21 +571,7 @@
   </url>
   
   <url>
-    <loc>http://kevinello.ltd/tags/Golang/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://kevinello.ltd/tags/Django/</loc>
-    <lastmod>2022-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://kevinello.ltd/tags/antlr4/</loc>
     <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -599,7 +585,21 @@
   </url>
   
   <url>
+    <loc>http://kevinello.ltd/tags/antlr4/</loc>
+    <lastmod>2022-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://kevinello.ltd/tags/CICD/</loc>
+    <lastmod>2022-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://kevinello.ltd/tags/Golang/</loc>
     <lastmod>2022-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
