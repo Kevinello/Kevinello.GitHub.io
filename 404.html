@@ -3,7 +3,7 @@
   algolia: {"appId":"13UJR6CRNO","apiKey":"456e56f51ec27a1e13d67bef144f6747","indexName":"Kevinello_blog","hits":{"per_page":6},"languages":{"input_placeholder":"搜索文章","hits_empty":"找不到您查询的内容：${query}","hits_stats":"找到 ${hits} 条结果，用时 ${time} 毫秒"}},
   localSearch: undefined,
   translate: undefined,
-  noticeOutdate: undefined,
+  noticeOutdate: {"limitDay":180,"position":"top","messagePrev":"It has been","messageNext":"days since the last update, the content of the article may be outdated."},
   highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
   copy: {
     success: '复制成功',
@@ -33,8 +33,8 @@
   },
   isPhotoFigcaption: false,
   islazyload: false,
-  isAnchor: false
-}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"页面没有找到",isPost:!1,isHome:!1,isHighlightShrink:!1,isToc:!1,postUpdate:"2022-04-12 01:44:13"}</script><noscript><style>#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
+  isAnchor: true
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE={title:"页面没有找到",isPost:!1,isHome:!1,isHighlightShrink:!1,isToc:!1,postUpdate:"2022-04-12 02:24:09"}</script><noscript><style>#nav{opacity:1}.justified-gallery img{opacity:1}#post-meta time,#recent-posts time{display:inline!important}</style></noscript><script>(win=>{
     win.saveToLocal = {
       set: function setWithExpiry(key, value, ttl) {
         if (ttl === 0) return
