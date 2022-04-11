@@ -117,15 +117,15 @@
             
             <tag> 数据库 </tag>
             
-            <tag> 网络 </tag>
-            
             <tag> 并发编程 </tag>
+            
+            <tag> 网络 </tag>
             
             <tag> 虚拟化 </tag>
             
-            <tag> Redis </tag>
-            
             <tag> 动态规划 </tag>
+            
+            <tag> Redis </tag>
             
             <tag> Golang </tag>
             
@@ -168,11 +168,11 @@
             
             <tag> python </tag>
             
-            <tag> Golang </tag>
-            
             <tag> Django </tag>
             
             <tag> antlr4 </tag>
+            
+            <tag> Golang </tag>
             
         </tags>
       
@@ -890,9 +890,9 @@
             
             <tag> Django </tag>
             
-            <tag> antlr4 </tag>
-            
             <tag> ctags </tag>
+            
+            <tag> antlr4 </tag>
             
             <tag> CICD </tag>
             

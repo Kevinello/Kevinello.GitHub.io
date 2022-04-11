@@ -195,17 +195,17 @@ if ('Utterances' === 'Utterances' || !false) {
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: '',
+      envId: 'blog-comments-9gil6as164013b6c',
       region: '',
       onCommentLoaded: function () {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.vemoji)'))
       }
-    }, ))
+    }, null))
   }
 
   const getCount = () => {
     twikoo.getCommentsCount({
-      envId: '',
+      envId: 'blog-comments-9gil6as164013b6c',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
