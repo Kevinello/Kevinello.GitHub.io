@@ -1,3 +1,4 @@
+http://kevinello.ltd/2022/05/24/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%9B%BD%E5%AF%86%E8%90%BD%E5%9C%B0%E7%9A%84%E7%BB%8F%E5%8E%86/
 http://kevinello.ltd/2022/04/18/Distributed-Tracing-in-Grafana-Jaeger-Tempo/
 http://kevinello.ltd/2022/04/11/Kevinello%E7%9A%84minecraft%E6%9C%8D%E5%8A%A1%E5%99%A8/
 http://kevinello.ltd/2022/04/11/Run-minecraft-on-mac-pro-m1/
