@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://kevinello.ltd/2023/02/28/%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7Redis%EF%BC%9A%E4%BF%9D%E9%9A%9CRedis%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E5%8F%AF%E9%9D%A0%E6%80%A7/</loc>
-    <lastmod>2023-03-03</lastmod>
+    <lastmod>2023-03-04</lastmod>
   </url>
   <url>
     <loc>http://kevinello.ltd/2021/04/19/%E4%BB%8ERedis%E4%BA%8B%E5%8A%A1%E5%88%B0Redis-pipeline/</loc>
@@ -165,15 +165,11 @@
     <lastmod>2022-04-09</lastmod>
   </url>
   <url>
-    <loc>http://kevinello.ltd/2021/02/15/Python-yield%E5%85%B3%E9%94%AE%E5%AD%97%E8%AF%A6%E8%A7%A3/</loc>
-    <lastmod>2022-04-09</lastmod>
-  </url>
-  <url>
     <loc>http://kevinello.ltd/2021/03/17/Python-asyncio%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2022-04-09</lastmod>
   </url>
   <url>
-    <loc>http://kevinello.ltd/2021/04/11/Redis%E5%86%85%E5%AD%98%E7%A2%8E%E7%89%87%E7%9A%84%E4%BA%A7%E7%94%9F%E4%B8%8E%E6%B8%85%E7%90%86/</loc>
+    <loc>http://kevinello.ltd/2021/02/15/Python-yield%E5%85%B3%E9%94%AE%E5%AD%97%E8%AF%A6%E8%A7%A3/</loc>
     <lastmod>2022-04-09</lastmod>
   </url>
   <url>
@@ -182,6 +178,10 @@
   </url>
   <url>
     <loc>http://kevinello.ltd/2021/02/06/Redis%E7%9A%84%E8%BF%87%E6%9C%9F%E7%AD%96%E7%95%A5-%E5%86%85%E5%AD%98%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5/</loc>
+    <lastmod>2022-04-09</lastmod>
+  </url>
+  <url>
+    <loc>http://kevinello.ltd/2021/04/11/Redis%E5%86%85%E5%AD%98%E7%A2%8E%E7%89%87%E7%9A%84%E4%BA%A7%E7%94%9F%E4%B8%8E%E6%B8%85%E7%90%86/</loc>
     <lastmod>2022-04-09</lastmod>
   </url>
 </urlset> 
